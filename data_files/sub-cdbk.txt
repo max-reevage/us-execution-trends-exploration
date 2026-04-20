@@ -1,0 +1,420 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+             Executions in the United States, 1608-2002:  The ESPY File
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Executions in the United States, 1608-2002:  The ESPY File        Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      V1                 ICPSR STUDY NUMBER-8451                             1
+      V2                 ICPSR EDITION NUMBER                                1
+      V3                 ICPSR PART NUMBER                                   1
+      V4                 CASE NUMBER                                         1
+      V5                 RACE OF OFFENDER                                    1
+      V6                 AGE AT EXECUTION                                    2
+      V7                 NAME OF OFFENDER                                    2
+      V8                 PLACE OF EXECUTION                                  2
+      V9                 JURISDICTION OF EXECUTION                           2
+      V10                CRIME COMMITTED                                     3
+      V11                METHOD OF EXECUTION                                 3
+      V12                DATE: DAY                                           3
+      V13                DATE: MONTH                                         3
+      V14                DATE: YEAR                                          4
+      V15                CHECK DIGIT                                         4
+      V16                STATE OF EXECUTION                                  4
+      V17                COUNTY OF CONVICTION                                4
+      V18                ICPSR STATE CODE                                    4
+      V19                SEX OF OFFENDER                                     4
+      V20                COMPENSATION CASE                                   5
+      V21                OCCUPATION OF OFFENDER                              5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   April 11, 2026
+
+
+
+      Executions in the United States, 1608-2002:  The ESPY File        Page 1
+
+
+      V1                 ICPSR STUDY NUMBER-8451
+
+           Data type: numeric
+           Record/columns: 1/1-4
+
+      ________________________________________________________________________
+
+      V2                 ICPSR EDITION NUMBER
+
+           VALUE  LABEL
+               4  February, 2004
+
+           Data type: numeric
+           Record/column: 1/6
+
+      ________________________________________________________________________
+
+      V3                 ICPSR PART NUMBER
+
+           VALUE  LABEL
+               1  All One Part
+
+           Data type: numeric
+           Record/column: 1/8
+
+      ________________________________________________________________________
+
+      V4                 CASE NUMBER
+
+           Data type: numeric
+           Record/columns: 1/10-15
+
+      ________________________________________________________________________
+
+      V5                 RACE OF OFFENDER
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+               1  White
+               2  Black
+               3  Native American
+               4  Asian-Pacific Il
+               5  Hispanic
+               6  Other
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/column: 1/17
+
+
+
+
+
+
+
+                                   April 11, 2026
+
+
+
+      Executions in the United States, 1608-2002:  The ESPY File        Page 2
+
+
+      V6                 AGE AT EXECUTION
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/19-20
+
+      ________________________________________________________________________
+
+      V7                 NAME OF OFFENDER
+
+           Data type: character
+           Record/columns: 1/23-50
+
+      ________________________________________________________________________
+
+      V8                 PLACE OF EXECUTION
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+               1  City-Local Juris
+               2  County-Local Jur
+               3  State-ST Prison
+               4  Other
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/column: 1/53
+
+      ________________________________________________________________________
+
+      V9                 JURISDICTION OF EXECUTION
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+               1  Local-Colonial
+               2  State
+               3  Federal
+               4  Territorial
+               5  Indian Tribunal
+               6  Other-Military
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/column: 1/55
+
+
+
+
+
+
+
+                                   April 11, 2026
+
+
+
+      Executions in the United States, 1608-2002:  The ESPY File        Page 3
+
+
+      V10                CRIME COMMITTED
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/57-58
+
+      ________________________________________________________________________
+
+      V11                METHOD OF EXECUTION
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+               1  Hanging
+               2  Electrocution
+               3  Asphyxiation-Gas
+               4  Shot
+               5  Injection
+               6  Pressing
+               8  Break on Wheel
+              10  Burned
+              11  Hung in Chains
+              13  Bludgeoned
+              14  Gibbetted
+              15  Other
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/60-61
+
+      ________________________________________________________________________
+
+      V12                DATE: DAY
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/63-64
+
+      ________________________________________________________________________
+
+      V13                DATE: MONTH
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/66-67
+
+
+
+
+                                   April 11, 2026
+
+
+
+      Executions in the United States, 1608-2002:  The ESPY File        Page 4
+
+
+      V14                DATE: YEAR
+
+           Data type: numeric
+           Record/columns: 1/69-72
+
+      ________________________________________________________________________
+
+      V15                CHECK DIGIT
+
+           VALUE  LABEL
+               1  1st Execution
+              39  39th Execution
+
+           Data type: numeric
+           Record/columns: 1/74-75
+
+      ________________________________________________________________________
+
+      V16                STATE OF EXECUTION
+
+           Data type: numeric
+           Record/columns: 1/77-78
+
+      ________________________________________________________________________
+
+      V17                COUNTY OF CONVICTION
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/80-84
+
+      ________________________________________________________________________
+
+      V18                ICPSR STATE CODE
+
+           Data type: numeric
+           Record/columns: 1/86-87
+
+      ________________________________________________________________________
+
+      V19                SEX OF OFFENDER
+
+           VALUE  LABEL
+               0  Do Not Know; NA
+               1  Male
+               2  Female
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/column: 1/89
+
+
+
+
+
+
+                                   April 11, 2026
+
+
+
+      Executions in the United States, 1608-2002:  The ESPY File        Page 5
+
+
+      V20                COMPENSATION CASE
+
+           VALUE  LABEL
+               0  No or Unknown
+               1  Yes
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/column: 1/91
+
+      ________________________________________________________________________
+
+      V21                OCCUPATION OF OFFENDER
+
+           Data type: numeric
+           Missing-data code: 0
+           Record/columns: 1/93-95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   April 11, 2026
