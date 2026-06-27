@@ -19,5 +19,9 @@ The analysis has thus far shown, prior to dataset concatenation, that:
 - Execution Database: https://deathpenaltyinfo.org/facts-and-research/data/executions
 - Death Penalty Census Database: https://deathpenaltyinfo.org/facts-and-research/data/death-penalty-census/sentences
 
+## Tools & Libraries Used
+Pandas, Matplotlib, Numpy, and Seaborn were the libraries used for this project.
+Additionally, AI assistance was utilized with some code generation and troubleshooting.
+
 ## Author
 Anna Reeves
