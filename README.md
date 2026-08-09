@@ -11,6 +11,7 @@ This exploratory analysis uncovers trends regarding the implementation of Capita
    ### Mac or Linux
       python3 -m venv .venv
       source .venv/bin/activate
+
 3. Install the required Python packages:  
    pip install -r requirements.txt
 3. Open the files in a Jupyter Notebook.
