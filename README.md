@@ -5,7 +5,7 @@ This exploratory analysis uncovers trends regarding the implementation of Capita
 ## How to Use
 1. Clone this repository.
 2. Create and activate virtual environment
-   ### windows
+   ### Windows
       python -m venv .venv
       .venv/Scripts/activate
    ### Mac or Linux
