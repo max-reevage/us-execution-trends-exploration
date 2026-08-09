@@ -4,7 +4,14 @@ This exploratory analysis uncovers trends regarding the implementation of Capita
 
 ## How to Use
 1. Clone this repository.
-2. Install the required Python packages:  
+2. Create and activate virtual environment
+   ### windows
+      python -m venv .venv
+      .venv/Scripts/activate
+   ### Mac or Linux
+      python3 -m venv .venv
+      source .venv/bin/activate
+3. Install the required Python packages:  
    pip install -r requirements.txt
 3. Open the files in a Jupyter Notebook.
 
@@ -21,7 +28,7 @@ The analysis has thus far shown, prior to dataset concatenation, that:
 
 ## Tools & Libraries Used
 Pandas, Matplotlib, Numpy, and Seaborn were the libraries used for this project.
-Additionally, AI assistance was utilized with some code generation and troubleshooting.
+Additionally, AI assistance was utilized for assistance with some code generation and troubleshooting.
 
 ## Author
 Anna Reeves
