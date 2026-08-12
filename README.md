@@ -17,10 +17,12 @@ This exploratory analysis uncovers trends regarding the implementation of Capita
 3. Open the files in a Jupyter Notebook.
 
 ## Preliminary Results
-The analysis has thus far shown, prior to dataset concatenation, that:
+The analysis has thus far shown that:
 1. exceedingly more slaves have been executed than those in other professions
 2. hanging was the most commonly used execution method, followed by electrocution and injection
-3. and 1935 saw the most executions in one year (N=197)
+3. 1935 saw the most executions in one year (N=197)
+4. the average age at execution is 33
+5. and more Black offenders have been executed (49.54%) than White (44.26%)
 
 ## Data Sources
 - Espy, M. Watt, and Smykla, John Ortiz. Executions in the United States, 1608-2002: The ESPY File. Inter-university Consortium for Political and Social Research [distributor], 2016-07-20. https://doi.org/10.3886/ICPSR08451.v5
@@ -29,7 +31,7 @@ The analysis has thus far shown, prior to dataset concatenation, that:
 
 ## Tools & Libraries Used
 Pandas, Matplotlib, Numpy, and Seaborn were the libraries used for this project.
-Additionally, AI assistance was utilized for assistance with some code generation and troubleshooting.
+Additionally, LLMs including Claude, Copilot, Gemini, and ChatGPT, were utilized for assistance with some code generation and troubleshooting.
 
 ## Author
 Anna Reeves
