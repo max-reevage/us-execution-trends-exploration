@@ -16,6 +16,9 @@ This exploratory analysis uncovers trends regarding the implementation of Capita
    pip install -r requirements.txt
 3. Open the files in a Jupyter Notebook.
 
+## Research Objectives
+In sum, I'm primarily interested in how execution methods have evolved over time, whether these changes correlate with major historical events, and whether certain racial demographics are disproportionately represented in execution statistics. As this project progresses, I will venture to determine the shift in executions from public spectacle to limited, private access and examine a third database consisting of sentencing data.
+
 ## Preliminary Results
 The analysis has thus far shown that:
 1. exceedingly more slaves have been executed than those in other professions
